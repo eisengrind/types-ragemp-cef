@@ -1,0 +1,9 @@
+{
+    "name": "@types/ragemp-cef",
+    "version": "1.0.0",
+    "author": "Vincent Heins",
+    "description": "RageMP TypeScript/JS cef definitions",
+    "license": "AGPL-3.0-or-later",
+    "repository": "https://github.com/eisengrind/types-ragemp-cef.git",
+    "types": "index.d.ts"
+}
